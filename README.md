@@ -78,8 +78,19 @@ EDA involves all the questions that was was answered using the data. questions s
   where
 
 
-### Results
+### Results!
+[question 1](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/759b9a73-9f49-438c-a119-5323d03e0987)
+![question 2](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/1b1368e0-e1e9-4ce4-ac3d-c9b8625d97e6)
+![question 3](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/8e6b0da0-13a1-4866-88b7-bcb1f51962c6)
+![question 4](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/792e0bd0-741e-478f-a830-001eda56e116)
+![question 5](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/ccd25c41-1221-48a0-be7d-ab7c845c7f78)
+
+
+
+
+
 The sales was better the previous year
+
 
 
 ### Recommendation

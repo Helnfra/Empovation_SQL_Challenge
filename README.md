@@ -1,6 +1,7 @@
 # Empovation query writers challenge   ![image](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/dad7cd63-7a55-4e9f-8607-8a24fef60105)
 
 Business Questions, solutions and insight
+---
 
 ## Table of content
 - [Project overview](Project-overview)
@@ -15,16 +16,15 @@ Business Questions, solutions and insight
 
 
 ## Project overview
-This project aims to significantly determine and enhance the sales performance of a business, by providing insight by analyzing various aspects of sales data. 
-By these analyses we seek to identify trends, make data driven recommendation and gain better understanding of company’s performance using some indicators. 
-
+This project aims to determine and enhance the sales performance of a business, by providing insight, analyzing various aspects of sales data. By these analyses we seek to identify trends, make data driven recommendation and gain better understanding of company’s performance using some indicators. 
+---
 
 ### Project Objectives
 - Increase Revenue: Implement strategies to boost overall sales revenue.
 - Optimize Product Mix: Analyze sales data to identify top-performing products and adjust inventory and promotions accordingly to maximize profitability.
 - Expand Market Reach: Develop and execute marketing initiatives to attract new customers and retain existing ones, leveraging digital channels effectively.
 - Utilize Analytics for Decision Making: Utilize data analytics tools to track key performance indicators (KPIs), analyze trends, and make informed decisions for continuous improvement.
-
+---
 
 ### Data Sources
 The data used for this analyses were provided, there are "categories.csv", "Customers.csv" , "Products.csv", "Sales.csv", "Stores.csv" file, containing information on sales made by the company
@@ -34,7 +34,7 @@ The data used for this analyses were provided, there are "categories.csv", "Cust
 - MS EXCEL for data cleaning and visualisation
 -   - [download here]()
 - SQL (POSTGRESQL) for analysing data
-  
+---
 
 ### Data cleaning
 - loading and inspection of data.
@@ -42,7 +42,7 @@ The data used for this analyses were provided, there are "categories.csv", "Cust
 - Identified and removed duplicate records to avoid counting the same data multiple times.
 - Ensured consistency in data formats (eg.dates) across all records.
 - Convert data into a consistent format.
-
+---
 
 ### Exploxatory data analysis
 EDA involves all the questions that was was answered using the data. questions such as 
@@ -115,7 +115,7 @@ Base on the results from the analysis, i recommend the following
 
 
 ### Reference
-SQL for business by Werty
-[stack overflow]()
+1. SQL for business by Werty
+2. [stack overflow]()
 
   

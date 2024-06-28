@@ -46,30 +46,29 @@ The data used for this analyses were provided, there are "categories.csv", "Cust
 
 ### Exploxatory data analysis
 EDA involves all the questions that was was answered using the data. questions such as 
-- Batch A – Week 1
+#### Batch A – Week 1
 -	- Count the Total number of Orders Per Customer order in desc.
 - - List of Products sold in 2020
 - - Find Customers detail of Customers from California (CA)
 - - Calculate Total Sales Quantity for product 2115
 - - Store Information: retrieve the Top 5 Stores with the Most Sales Transactions.
-BATCH B – WEEK 2
+#### BATCH B – WEEK 2
 - - Average Price of Products in a Category
 - - Customer Purchases by Gender
 - - List of Products Not Sold
 - - Show the total amount in USD, round to 2 decimal point for orders made in other currencies, using the Exchange Rates table to convert the prices.
-- BATCH C – WEEK 3
+#### BATCH C – WEEK 3
 - - Impact of Store Size on Sales Volume
 - - Show Customer Segmentation by purchase behaviors (e.g., total spend, number of orders) and demographics (e.g., state, gender).
 - - calculate the total sales volume for each store, then rank stores based on their sales volume.
 - - Write a query to retrieve daily sales volumes, then calculate a running total of sales over time, ordered by date.
 - - Write a query to calculate the lifetime value of each customer based on their country
 - - Write a query to calculate the lifetime value of each customer based on the total amount they’ve spent.
-- BATCH D – WEEK 4
+#### BATCH D – WEEK 4
 -  - Show Year-over-Year Growth in Sales per Category.
 -  - Find each customer’s purchase rank within the store they bought from, based on the total price of the order (quantity * unit price).
 - - Perform a customer retention analysis to determine the percentage of customers who made repeat purchases within three months of their initial purchase. Calculate the percentage of retained customers by gender, age group, and location.
 - - Analyze historical sales data to identify the top-selling products in each product category for each store.  Determine the optimal product assortment for each store based on sales performance, product popularity, and profit margins.
-
 
 
 

@@ -80,15 +80,29 @@ EDA involves all the questions that was was answered using the data. questions s
 
 ### Results!
 #### week 1
-[question 1](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/759b9a73-9f49-438c-a119-5323d03e0987)
-[question 2](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/1b1368e0-e1e9-4ce4-ac3d-c9b8625d97e6)
-[question 3](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/8e6b0da0-13a1-4866-88b7-bcb1f51962c6)
-[question 4](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/792e0bd0-741e-478f-a830-001eda56e116)
-[question 5](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/ccd25c41-1221-48a0-be7d-ab7c845c7f78)
+- [question 1](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/759b9a73-9f49-438c-a119-5323d03e0987)
+- [question 2](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/1b1368e0-e1e9-4ce4-ac3d-c9b8625d97e6)
+- [question 3](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/8e6b0da0-13a1-4866-88b7-bcb1f51962c6)
+- [question 4](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/792e0bd0-741e-478f-a830-001eda56e116)
+- [question 5](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/ccd25c41-1221-48a0-be7d-ab7c845c7f78)
+
+#### week 2
+- [question 1](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/4305de7a-6e80-46fd-a8af-6ebb5695f70f)
+- [question 2](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/edc126ef-ce88-43f8-bd55-3547aae89c2b)
+- [question 3](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/7f30dca1-3bd0-47a2-a4aa-8f6ccce88aac)
+- [question 4](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/253a3c17-86cb-4312-89f2-c1ec4fdb5ed4)
+
+#### week 3
+- [question 1](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/d1b7fb65-6dee-4d8e-8316-6f1c0f17b2e7)
+- [question 2](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/59fe3e7c-e441-4175-ae2f-2d93ae8be422)
+- [question 3](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/21db859f-0ce7-420b-8472-a4ee9cc94797)
+- [question 4](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/9830b624-8c28-463e-86d6-6ef5bb3e1b6c)
+- [question 5](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/1f2f7227-ccc4-4b38-9171-34e6b9a3b94c)
+- [question 6](https://github.com/Helnfra/Empovation_SQL_Challenge/assets/138709761/52c1b470-329b-4982-b90e-46030a23e746)
 
 
 
-
+- 
 
 The sales was better the previous year
 

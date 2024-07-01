@@ -16,14 +16,16 @@ Business Questions, solutions and insight
 
 
 ## Project overview
-This project aims to determine and enhance the sales performance of a business, by providing insight, analyzing various aspects of sales data. By these analyses we seek to identify trends, make data driven recommendation and gain better understanding of company’s performance using some indicators. 
+This project aims to determine and enhance the sales performance of a business and by providing insight, analyzing various aspects of sales data. By these analyses we seek to identify trends, make data driven recommendation and gain better understanding of company’s performance using some indicators. 
+
 ---
 
 ### Project Objectives
-- Increase Revenue: Implement strategies to boost overall sales revenue.
-- Optimize Product Mix: Analyze sales data to identify top-performing products and adjust inventory and promotions accordingly to maximize profitability.
-- Expand Market Reach: Develop and execute marketing initiatives to attract new customers and retain existing ones, leveraging digital channels effectively.
-- Utilize Analytics for Decision Making: Utilize data analytics tools to track key performance indicators (KPIs), analyze trends, and make informed decisions for continuous improvement.
+- Implement strategies to boost overall sales revenue.
+- Analyze sales data to identify top-performing stores, sales medium and products.
+- To adjust inventory and promotions accordingly to maximize profitability.
+- Develop and execute marketing initiatives to attract new customers and retain existing ones, leveraging digital channels effectively.
+- Utilize data analytics tools to track key performance indicators (KPIs), analyze trends, and make informed decisions for continuous improvement.
 ---
 
 ### Data Sources
@@ -32,8 +34,8 @@ The data used for this analyses were provided, there are "categories.csv", "Cust
 
 ### Tools
 - MS EXCEL for data cleaning and visualisation
--   - [download here]()
 - SQL (POSTGRESQL) for analysing data
+- - [download here]()
 ---
 
 ### Data cleaning
@@ -53,7 +55,7 @@ EDA involves all the questions that was was answered using the data. questions s
 - - Calculate Total Sales Quantity for product 2115
 - - Store Information: retrieve the Top 5 Stores with the Most Sales Transactions.
 #### BATCH B – WEEK 2
-- - Average Price of Products in a Category
+- - Average Price of 7Products in a Category
 - - Customer Purchases by Gender
 - - List of Products Not Sold
 - - Show the total amount in USD, round to 2 decimal point for orders made in other currencies, using the Exchange Rates table to convert the prices.
@@ -110,12 +112,13 @@ EDA involves all the questions that was was answered using the data. questions s
 ### Recommendation
 Base on the results from the analysis, i recommend the following
 - Invest in marketing and promotion especially during the peak seasons to maximize sale.
+- Invest more in online sales as more sales came from there.
 - implement a customer segmentation strategy to target high LTV customers.
-- Focus on promoting products in category A.
+- Focus on promoting products in top categories.
 
 
 ### Reference
 1. SQL for business by Werty
-2. [stack overflow]()
+   
 
   
